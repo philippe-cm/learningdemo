@@ -1,2 +1,3 @@
 Test file initial commit
 Force merge conflict and then some
+Commit to test merge conflicts
