@@ -1,9 +1,9 @@
-new file  			C	C	Y
-le edit				R	O	A
-change #On Repo		E	N	Y
-remote change #1	A	F
-					T	L
-remote change #2	E	I
-						C
-						T
-						S
+new file  						C	C	Y
+le edit							R	O	A
+change #On Repo					E	N	Y
+remote cha"edit conflict"nge #1	A	F
+remote change #2				T	L
+new line conflict				E	I
+									C
+									T
+									S
